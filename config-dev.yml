@@ -1,0 +1,26 @@
+port: 8700
+
+favicon: "favicon.ico"
+
+database:
+  server: localhost
+  name: tfilocaldb
+  username: agung
+  password: rahasia
+
+cookie: 
+  secure: true
+  lifetime: 24
+
+template:
+  cached: false
+  dir: "data/templates/v2"  
+
+application:
+  pagedir: "data/pages"
+  contentdir: "data/content"
+
+logging:
+  enabled: true
+
+  

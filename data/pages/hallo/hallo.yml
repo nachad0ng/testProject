@@ -1,0 +1,10 @@
+title: Hallo
+
+device:
+  mobile:
+    - hallo.html
+  tablet:
+    - hallo.html
+  desktop:
+    - hallo.html
+        

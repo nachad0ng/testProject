@@ -1,0 +1,16 @@
+github.com/agungdhewe/dwlog v1.2.3 h1:D6BhhH4YexfjPe9ULDoSh4aMSzXdGOVG95mNlRhFBzg=
+github.com/agungdhewe/dwlog v1.2.3/go.mod h1:MDbg+nx7DjBk8Hod+dVHdxVgFig8WsUo2fovLL6Tj5I=
+github.com/agungdhewe/dwpath v1.1.2 h1:DHddEd4sgKRC6lNavwuySslMPDDw9TLSL0ext6CY9m0=
+github.com/agungdhewe/dwpath v1.1.2/go.mod h1:588x6doLfhBTv9iohuenVaHKpVDQtDvzH4Iku9uSDNE=
+github.com/agungdhewe/dwtpl v0.0.0-20240527183719-797967737082 h1:7PRdKFvyTkNW2Z4KXvTgqLQS3NNHDmrOJVLgSLLDkW0=
+github.com/agungdhewe/dwtpl v0.0.0-20240527183719-797967737082/go.mod h1:8WlFTCNHW4QA7U8Wia2CIKJ2mnFuKXhLIyPt3RF1MO4=
+github.com/fgtago/fgweb v0.0.0-20240607140800-ce156d60a464 h1:yzTK6zIL5iuNJ4OZmHpRm16+AHsEtmomjzeZ5tVrqkQ=
+github.com/fgtago/fgweb v0.0.0-20240607140800-ce156d60a464/go.mod h1:s1doKmalG5WOBAOcpbrZ6Jb6Q7QQnYYiKKxSy5i1M7A=
+github.com/go-chi/chi/v5 v5.0.12 h1:9euLV5sTrTNTRUU9POmDUvfxyj6LAABLUcEWO+JJb4s=
+github.com/go-chi/chi/v5 v5.0.12/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/houseme/mobiledetect v1.2.1 h1:Zb5QZMwiyHMJH2NPsyQjM4YHpZ05AtSoBo46KPBvTdc=
+github.com/houseme/mobiledetect v1.2.1/go.mod h1:QNYrZBISjfi0UNH5/LjHwWAsP3mbka4Ti0VaSisLdtY=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
