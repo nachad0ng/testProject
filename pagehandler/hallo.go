@@ -32,16 +32,16 @@ func Hallo(w http.ResponseWriter, r *http.Request) {
 		fmt.Println("404")
 	}
 
-	v := MyVar{
+	dataItem := MyVar{
 		Title: "Hello",
 		Name:  "Agung",
 	}
 
-	fmt.Println(v)
+	fmt.Println(dataItem)
 
 	// render page
 	buff := new(bytes.Buffer)
-	err = tpl.Execute(buff, v)
+	err = tpl.Execute(buff, dataItem)
 	if err != nil {
 		fmt.Fprintf(w, "error: %s", err.Error())
 		return
